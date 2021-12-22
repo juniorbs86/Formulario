@@ -1,0 +1,77 @@
+*{
+  
+  padding: 0;
+  margin: 0;
+}
+.cover {
+  background-image: url(img/igreja.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100vw;
+  
+  
+}
+
+.h1 {
+  margin-left: 30px;
+  align-items: center;
+  text-align: center;
+}
+
+.h2 {
+  margin-left: 30px;
+}
+
+.container-1 {
+  margin-left: 30px;
+}
+
+.container-1 input {
+  display: block;
+  width: 200px;
+  align-items: center;
+  text-align: left;
+}
+
+.h3{
+  margin-left: 30px;
+}
+
+.container-3{
+  display: block;
+  width: 200px;
+  margin-left: 30px;
+}
+
+.checkboxes input {
+  vertical-align: middle;
+  margin-left: 85px;
+}
+
+.container-4{
+  margin-left: 80px;
+}
+
+.input {
+  display: inline-block;
+  width: 190px;
+  align-items: inherit;
+}
+
+.container-5{
+  margin-left: -06px;
+}
+
+.container-6{
+  display: block;
+  width: 200px;
+  margin-left: 30px;
+}
+
+.container-7{
+  display: block;
+  width: 200px;
+  margin-left: 30px;
+}
